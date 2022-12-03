@@ -1,0 +1,45 @@
+Roadmap 1st Half:
+  Module 1:
+    Basic Browser and JS basics
+
+  Module 2:
+    HTML CSS
+
+  Module 3:
+    DOM with JS
+
+  Module 4:
+    Async Programming
+
+  Hackathon
+
+  Mock Interview
+
+Topics:
+
+  Introduction to Web
+
+  working of internet with HTTP/HTTPS
+
+  Evolution Of Browsers
+    Mosaic
+    Natscap, Internet Explorer
+    Chrome, Mozilla
+
+  Rendering ---> Convert HTML code to Beatiful webpage
+
+  Hyper Text Mark Up Language
+  HTML Rendering Process Or DOM:
+    DOM --> Document Object Model
+      Skeleton Of Webpage
+
+    1. Browser Fetchs the HTML Document
+    2. Parses it via 
+      DOM Tree --> which is used to rendering
+    3. CSS -> Written Inside/outside HTML
+      CCSSOM Tree --> which is used to painting or format the HTML rendered
+      CSS: Presentation/Skin/Makeup ---> Beautification
+
+  JS:
+    functional Brain of HTML --> Client Side( Page User will see ) scripting / functional script
+    BrowserJs vs Nodejs
